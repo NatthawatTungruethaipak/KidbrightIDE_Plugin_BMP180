@@ -1,0 +1,15 @@
+Blockly.Msg.BMP180_TEXT_TITLE_temperature  = "BMP180 temperature";
+Blockly.Msg.BMP180_TEXT_TOOLTIP_temperature = "Read BMP180 temperature";
+Blockly.Msg.BMP180_TEXT_TITLE_absolute_pressure = "BMP180 pressure at absolute";
+Blockly.Msg.BMP180_TEXT_TITLE_sealevel_pressure = "BMP180 pressure at sealevel";
+Blockly.Msg.BMP180_TEXT_TOOLTIP_absolute_pressure = "Read BMP180 pressure at absolute";
+Blockly.Msg.BMP180_TEXT_TOOLTIP_sealevel_pressure = "Read BMP180 pressure at sealevel";
+Blockly.Msg.BMP180_TEXT_TITLE_absolute_altitude = "BMP180 altitude at absolute";
+Blockly.Msg.BMP180_TEXT_TOOLTIP_absolute_altitude = "Read BMP180 altitude at absolute";
+Blockly.Msg.BMP180_TEXT_INMILLIBAR = "unit in millibar";
+Blockly.Msg.BMP180_TEXT_INCELSIUS = "unit in Celsius";
+Blockly.Msg.BMP180_TEXT_INMETER = "unit in meter";
+Blockly.Msg.BMP180_TEXT_ALTITUDE = "altitude";
+Blockly.Msg.BMP180_TEXT_PRESSURE_REF = "pressure reference in millibar";
+Blockly.Msg.BMP180_TEXT_CHANNEL = "channel";
+Blockly.Msg.BMP180_TEXT_HELPURL = "BMP180 HELPURL";
