@@ -1,7 +1,7 @@
 {
 	"name": {
-		"en": "BMP180 pressure",
-		"th": "ความดันอากาศ BMP180"
+		"en": "BMP180 Barometer",
+		"th": "ความกดอากาศ BMP180"
 	},
 	"color": 135
 }
