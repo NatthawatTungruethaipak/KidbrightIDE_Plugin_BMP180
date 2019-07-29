@@ -1,1 +1,2 @@
 # Kidbright-plugins
+  **BMP180**
